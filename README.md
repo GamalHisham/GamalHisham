@@ -8,7 +8,7 @@ I want to transfer my passion to others and guide them into this vast field thro
 
 ## Connect with Me
 
-- [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/gamalhisham/))
+- [LinkedIn]([My LinkedIn Profile ](https://www.linkedin.com/in/gamalhisham/))
 
 
 ## 🚀 Let's collaborate!
