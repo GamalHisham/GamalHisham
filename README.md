@@ -15,4 +15,18 @@ I want to transfer my passion to others and guide them into this vast field thro
 
 Feel free to explore my repositories and collaborate on exciting projects. If you have any questions or suggestions, don't hesitate to reach out. Let's build something amazing together!
 
+# Languages and Tools
+
+* python
+* pandas
+* Numpy
+* Scipy
+* Seaborn
+* PowerBI
+* MYSQL
+* git
+* scikit-learn
+* pytorch
+* tensorflow
+
 
