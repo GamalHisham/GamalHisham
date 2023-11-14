@@ -17,16 +17,7 @@ Feel free to explore my repositories and collaborate on exciting projects. If yo
 
 # Languages and Tools
 
-* python
-* pandas
-* Numpy
-* Scipy
-* Seaborn
-* PowerBI
-* MYSQL
-* git
-* scikit-learn
-* pytorch
-* tensorflow
+![Pandas]([https://img.shields.io/badge/-Language1-<COLOR>?style=flat&logo=language1&logoColor=white](https://pandas.pydata.org/))
+
 
 
